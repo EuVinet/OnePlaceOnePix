@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnePlaceOnePix</string>
+    <string name="lorem_ipsum">Ce voyage aux antilles était une pure merveille, que dire de plus que Wahou face à ces lagons bleus turquoise !</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add">Ajout</string>
+    <string name="cancel">Annuler</string>
+    <string name="dialog_add_marker">Voulez vous ajouter un souvenir pour cet emplacement?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
